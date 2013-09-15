@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodayTv</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ignoreListButton">Open ignore list!</string>
+    <string name="title_activity_ignore_list">IgnoreList</string>
+    <string name="title_activity_item_list">ItemList</string>
+</resources>
